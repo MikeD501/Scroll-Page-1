@@ -51,3 +51,15 @@ width: 80%;
 margin: 0 auto;
 margin-top: 5%;
 }
+
+.contactInfo li {
+    list-style-type: none;
+}
+
+.contactInfo {
+    Margin-top: 5%;
+}
+
+.contactInfo h2 {
+    text-decoration: underline;
+}
